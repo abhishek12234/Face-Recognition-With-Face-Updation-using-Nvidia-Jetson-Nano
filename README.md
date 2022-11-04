@@ -4,7 +4,7 @@
 This is a Facial-recognition project which will also Update Face record
 
 # Benefits - 
-As we all know that many Machine-Learnig based project reqiures altest 2-3 similar kind of images to train & ofcourse a lot of time to train all the things BUT here it requires just one good* image of the person and thats all needed for recognition. 
+As we all know that many Machine-Learnig based project reqiures altest 2-3 similar kind of images to train & of course a lot of time to train all the things BUT here it requires just one good* image of the person and thats all needed for recognition. 
 
 # This Project Uses:-
 Language --> Python=3.8 
@@ -46,18 +46,13 @@ import using - from tkinter import *
 install using - pip install numpy
 import using - import numpy as np
 
-9. deepface
-install using - pip install deepface
-import using - from deepface import DeepFace
 
 10. Harcascade (for Frontal face)
-download using - github: https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+download using file give haarcascade_frontalface_default.xml
 
 # Important Functuions used
 
-1. "gender" : To detect gender of the person detected in the frame
-
-2. "update" : This function is used to update face records
+1. "update" : This function is used to update face records
 
 3. "facee" : Use to recognize face of the person in the frame
 
