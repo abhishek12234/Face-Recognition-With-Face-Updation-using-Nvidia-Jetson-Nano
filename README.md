@@ -1,6 +1,6 @@
 # Face-Recognition-With-Face-Updation-using-Nvidia-Jetson-Nano
 
-# Facial-Recognition-with-Gender-Detection
+# Facial-Recognition-with-Face-Record-Updation
 This is a Facial-recognition project which will also Update Face record
 
 # Benefits - 
