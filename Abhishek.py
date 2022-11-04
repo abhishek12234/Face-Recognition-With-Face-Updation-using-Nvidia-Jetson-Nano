@@ -5,25 +5,14 @@ import pandas as pd
 from datetime import datetime
 import time
 from tkinter import *
-import cvlib as cv
 import numpy as np
-from tensorflow.keras.models import load_model
-from deepface import DeepFace
-from tensorflow.keras.preprocessing.image import img_to_array
 
 lis=[]
-
 face_cascade = cv2.CascadeClassifier(r'/home/sageiac/Downloads/face_dectect.xml')
 na=""
-
 count=0
-model1=load_model(r'/home/sageiac/Desktop/liveness.model')
-
 
 def name():
-   
-    
-     
     root = Tk()
     root.title("Credintials Login")
     root.geometry("500x280")
