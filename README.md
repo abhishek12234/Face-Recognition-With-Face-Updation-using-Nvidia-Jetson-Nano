@@ -61,6 +61,6 @@ download using - github: https://github.com/opencv/opencv/blob/master/data/haarc
 
 3. "facee" : Use to recognize face of the person in the frame
 
-4. "trylogin" : this function provide security while updation new face in model by asking username and password from the user.
+4. "name" : this function provide security while updation new face in model by asking username and password from the user.
 
 
